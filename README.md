@@ -17,6 +17,7 @@ pindBm = [21]; % Input power
 pa.gain = 15 % Input gain  
 pa.oip3 = 50 % Input oip3  
 pa.am2pm = 0.00 % Input am/pm  
+![image](https://user-images.githubusercontent.com/87049112/165521842-31cf54f2-5f95-4a03-ab21-d2eb42581f04.png)
 
 %% PA application  
 
