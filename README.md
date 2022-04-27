@@ -32,3 +32,6 @@ evm = 6.0921
 - CCDF  
 ![image](https://user-images.githubusercontent.com/87049112/165516679-e3649db3-ff03-49b9-878a-c06d97d6ea5e.png)
 
+# Next:
+1. OIP3 vs ACLR
+2. ?
